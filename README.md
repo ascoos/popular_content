@@ -25,13 +25,7 @@ The block is managed through the ASCOOS Explorer program
 
 <br>
 
-***
-
-<br>
-
 We can configure its contents from the parameters
-
-<br>
 
 <p align="center"><img src="https://dl.ascoos.com/cms/ascoos/ext/blocks/popular-content/images/ASCOOS_Edit_Block_Parameters_p640.png" height=640 /></p>
 
