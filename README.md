@@ -57,6 +57,6 @@ Please send any feedback or suggestions to [@ascoos](https://twitter.com/ascoos)
 
 ## Download
 
-- [ASCOOS CMS Popular Content from Original Download site](https://dl.ascoos.com/cms/ascoos/ext/blocks/popular-content/ascoos-popular_content.zip)
+- [ASCOOS CMS Popular Content from Original Download site](https://dl.ascoos.com/cms/ascoos/ext/blocks/popular-content/popular_content-v010000.zip)
 
 - [ASCOOS CMS Popular Content from Github](https://github.com/ascoos/popular_content/releases)
